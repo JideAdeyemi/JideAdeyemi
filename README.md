@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Babajide Adeyemi
 
-<!--
-**JideAdeyemi/JideAdeyemi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a PhD researcher studying why small businesses know about cybersecurity but still get breached, and how AI tools can be designed to help rather than confuse.
 
-Here are some ideas to get you started:
+## What I'm working on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Research into human-centred, AI-assisted cybersecurity for SMEs
+- HACSA: a prototype Human-centric Agentic Cybersecurity Assistant
+
+## What you'll find here
+
+- Plain-English security guides for small business owners
+- Research notes and write-ups
+- Project prototypes
+
+## Get in touch
+
+[LinkedIn](https://www.linkedin.com/in/adeyemi-lb)
